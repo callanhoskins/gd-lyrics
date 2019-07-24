@@ -1,5 +1,5 @@
-# Grateful Dead Lyrics
-A data-driven analysis of the Grateful Dead's lyrics. 
+# Grateful Dead Incites
+A data-driven analysis of the Grateful Dead's music and performances. 
 
 `data` contains the lyrics of songs performed by the Grateful Dead. The songs are organized into three categories: 
 * `weir-barlow-lyrics`: songs written by barlow and performed by Bob Weir
